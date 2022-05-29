@@ -1,0 +1,16 @@
+C:\Users\jonat\source\repos\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\jonat\source\repos\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\jonat\source\repos\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\jonat\source\repos\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\source\repos\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\jonat\source\repos\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Interface\Interface\obj\Debug\Interface.pdb

@@ -1,0 +1,16 @@
+C:\Users\jonat\source\repos\Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\source\repos\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\jonat\source\repos\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\jonat\source\repos\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\jonat\source\repos\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\jonat\source\repos\Constructores\Constructores\obj\Debug\Constructores.pdb
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Constructores\Constructores\obj\Debug\Constructores.pdb

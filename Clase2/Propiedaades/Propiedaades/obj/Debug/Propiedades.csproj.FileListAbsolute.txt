@@ -1,0 +1,3 @@
+C:\Users\jonat\source\repos\Propiedaades\Propiedaades\obj\Debug\Propiedades.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Propiedaades\Propiedaades\obj\Debug\Propiedades.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\source\repos\Propiedaades\Propiedaades\obj\Debug\Propiedades.csproj.CoreCompileInputs.cache

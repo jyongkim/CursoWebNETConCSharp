@@ -1,0 +1,16 @@
+C:\Users\jonat\source\repos\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Herencia\Herencia\obj\Debug\Herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\source\repos\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\jonat\source\repos\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\jonat\source\repos\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\jonat\source\repos\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\jonat\source\repos\Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Herencia\Herencia\obj\Debug\Herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase2\Herencia\Herencia\obj\Debug\Herencia.pdb
