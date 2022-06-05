@@ -1,0 +1,8 @@
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador multidimensional\Indexador multidimensional\bin\Debug\Indexador multidimensional.exe.config
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador multidimensional\Indexador multidimensional\bin\Debug\Indexador multidimensional.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador multidimensional\Indexador multidimensional\bin\Debug\Indexador multidimensional.pdb
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador multidimensional\Indexador multidimensional\obj\Debug\Indexador multidimensional.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador multidimensional\Indexador multidimensional\obj\Debug\Indexador multidimensional.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador multidimensional\Indexador multidimensional\obj\Debug\Indexador multidimensional.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador multidimensional\Indexador multidimensional\obj\Debug\Indexador multidimensional.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador multidimensional\Indexador multidimensional\obj\Debug\Indexador multidimensional.pdb

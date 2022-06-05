@@ -1,0 +1,8 @@
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Constantes\Constantes\bin\Debug\Constantes.exe.config
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Constantes\Constantes\bin\Debug\Constantes.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Constantes\Constantes\bin\Debug\Constantes.pdb
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Constantes\Constantes\obj\Debug\Constantes.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Constantes\Constantes\obj\Debug\Constantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Constantes\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Constantes\Constantes\obj\Debug\Constantes.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Constantes\Constantes\obj\Debug\Constantes.pdb

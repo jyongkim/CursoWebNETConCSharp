@@ -1,0 +1,8 @@
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador unidimensional\Indexador unidimensional\bin\Debug\Indexador unidimensional.exe.config
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador unidimensional\Indexador unidimensional\bin\Debug\Indexador unidimensional.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador unidimensional\Indexador unidimensional\bin\Debug\Indexador unidimensional.pdb
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador unidimensional\Indexador unidimensional\obj\Debug\Indexador unidimensional.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador unidimensional\Indexador unidimensional\obj\Debug\Indexador unidimensional.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador unidimensional\Indexador unidimensional\obj\Debug\Indexador unidimensional.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador unidimensional\Indexador unidimensional\obj\Debug\Indexador unidimensional.exe
+C:\Users\jonat\Desktop\Programacón\Educación IT\Programación .NET con C# .NET (1C2022)\Clase3\Indexador unidimensional\Indexador unidimensional\obj\Debug\Indexador unidimensional.pdb
